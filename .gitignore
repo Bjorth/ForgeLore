@@ -1,0 +1,34 @@
+# Python
+*.pyc
+__pycache__/
+
+# Django
+*.log
+*.pot
+*.pyc
+__pycache__/
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+media
+.venv
+
+# VS Code specific files
+.vscode/
+.history/
+.vscode/ipch/
+*.code-workspace
+
+# Node.js
+node_modules/
+npm-debug.log
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# General
+.DS_Store
+Thumbs.db
+.env
+
+# End of https://www.toptal.com/developers/gitignore/api/visualstudiocode
